@@ -88,4 +88,4 @@ const joinMeetingBtn = document.getElementById("joinMeetingBtn");
 joinMeetingBtn.addEventListener("click", handleJoinMeeting);
 
 
-// index.js
+// index.jsx
